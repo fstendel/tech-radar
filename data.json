@@ -1,10 +1,10 @@
 [
   {
-    "name": "Composer",
+    "name": "Maven",
     "ring": "adopt",
     "quadrant": "tools",
-    "isNew": "TRUE",
-    "description": "Although the idea of dependency management ..."
+    "isNew": "false",
+    "description": "Maven is a build and dependency management tool for JVM-based languages utilising a convention-over-configuration approach."
   },
   {
     "name": "Canary builds",
@@ -14,17 +14,31 @@
     "description": "Many projects have external code dependencies ..."
   },
   {
-    "name": "Apache Kylin",
-    "ring": "assess",
+    "name": "Amazon Webservices",
+    "ring": "adopt",
     "quadrant": "platforms",
     "isNew": "TRUE",
     "description": "Apache Kylin is an open source analytics solution ..."
   },
   {
-    "name": "JSF",
+    "name": "Rust",
+    "ring": "asses",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Python",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "..."
+  },
+  {
+    "name": "Psychtoolbox-3",
     "ring": "hold",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
-    "description": "We continue to see teams run into trouble using JSF ..."
+    "description": "Matlab Framework I used and contributed to back in the days."
   }
 ]
